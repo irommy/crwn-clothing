@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import SHOP_DATA from "./2.1 shop.data";
 import CollectionPreview from '../../components/CollectionPreview/CollectionPreview'
 
